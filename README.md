@@ -21,7 +21,7 @@ Bu proje, popüler animelerin listesini döndüren ve AnimeRank.tv'nin `home-rai
 ## Kurulum ve Kullanım (InfinityFree veya Standart CPanel)
 
 1. Bu depoyu (repository) indirin veya klonlayın.
-2. Hosting panelinize (örn. InfinityFree) giriş yapın ve **Dosya Yöneticisi (File Manager)** bölümünü açın.
+2. Hosting panelinize giriş yapın ve **Dosya Yöneticisi (File Manager)** bölümünü açın.
 3. Genellikle web dizini olan `htdocs` veya `public_html` klasörüne girin.
 4. Bu projedeki `index.php` dosyasını ve `images` klasörünü sunucunuzun kök dizinine kopyalayın.
 5. Arkaplan fotoğraflarınızın (`.jpg` formatında) `images/backdrops/` klasörü içerisinde doğru isimlerle olduğundan emin olun (Örn: `aot.jpg`, `death-note.jpg`).
