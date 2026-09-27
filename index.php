@@ -31,7 +31,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/anime/10/47347l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/aot.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/aot.jpg",
             "logo": null,
             "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans...",
             "synopsisTr": "Yüzyıllar önce insanlık, Titan adı verilen devasa insansı yaratıklar tarafından yok edilmenin eşiğine getirilmişti..."
