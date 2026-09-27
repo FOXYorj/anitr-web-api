@@ -74,7 +74,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/anime/1258/126929l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/blue-lock.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/blue-lock.jpg",
             "logo": null,
             "synopsis": "After reflecting on the current state of Japanese soccer...",
             "synopsisTr": "Japon futbolunun mevcut durumu üzerine düşündükten sonra, Japon Futbol Federasyonu Dünya Kupası'nı kazanmak için yeni bir plan yapar..."
@@ -97,7 +97,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/frieren.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/frieren.jpg",
             "logo": null,
             "synopsis": "During their decade-long quest to defeat the Demon King...",
             "synopsisTr": "İblis Kral'ı yenmek için on yıl süren görevleri sırasında kahraman grubu barışı yeniden sağlar..."
@@ -120,7 +120,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/anime/11/79410l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/rezero.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/rezero.jpg",
             "logo": null,
             "synopsis": "When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life...",
             "synopsisTr": "Subaru Natsuki marketten çıktığında, beklediği en son şey günlük hayatından koparılıp fantastik bir dünyaya sürüklenmektir..."
@@ -143,7 +143,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/manga/3/179882l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/steel-ball-run.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/steel-ball-run.jpg",
             "logo": null,
             "synopsis": "Set in 1890, the Steel Ball Run is a cross-country horse race spanning the United States...",
             "synopsisTr": "1890'da geçen Steel Ball Run, Amerika Birleşik Devletleri'ni kapsayan bir kros at yarışıdır..."
@@ -166,7 +166,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/anime/3/40451l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/bleach.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/bleach.jpg",
             "logo": null,
             "synopsis": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow...",
             "synopsisTr": "Ichigo Kurosaki, ailesi yozlaşmış bir ruh olan Hollow tarafından saldırıya uğrayana kadar sıradan bir lise öğrencisidir..."
@@ -189,7 +189,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/anime/1244/138851l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/one-piece.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/one-piece.jpg",
             "logo": null,
             "synopsis": "Gol D. Roger was known as the 'Pirate King,' the strongest and most infamous being to have sailed the Grand Line...",
             "synopsisTr": "Gol D. Roger, Grand Line'da yelken açmış en güçlü ve en kötü şöhretli varlık olan 'Korsan Kral' olarak biliniyordu..."
@@ -212,7 +212,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/anime/13/17405l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/naruto.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/naruto.jpg",
             "logo": null,
             "synopsis": "Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure...",
             "synopsisTr": "Naruto Uzumaki'nin doğumundan dakikalar önce, Dokuz Kuyruklu Tilki Kyuubi olarak bilinen devasa bir iblis Konohagakure'ye saldırdı..."
@@ -235,7 +235,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/jujutsu-kaisen.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/jujutsu-kaisen.jpg",
             "logo": null,
             "synopsis": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days...",
             "synopsisTr": "Lise öğrencisi Yuuji Itadori, Gizem Kulübü ile temelsiz doğaüstü etkinliklere katılarak günlerini sıradan bir şekilde geçirmektedir..."
