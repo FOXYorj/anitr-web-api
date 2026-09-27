@@ -53,7 +53,7 @@ echo <<<JSON
             ],
             "poster": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp",
             "coverW": null,
-            "backdrop": "/images/backdrops/death-note.jpg",
+            "backdrop": "https://raw.githubusercontent.com/FOXYorj/anitr-web-api/images/backdrops/death-note.jpg",
             "logo": null,
             "synopsis": "A shinigami, as a god of death, can kill any person...",
             "synopsisTr": "Bir şinigami (ölüm tanrısı), yüzünü gördüğü kurbanının adını bir deftere yazarak herhangi bir insanı öldürebilir..."
